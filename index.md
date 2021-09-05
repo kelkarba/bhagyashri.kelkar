@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+<h1 style="background-color: aquamarine;">The Heritage of India </h1>
+<h2>Temples of India</h2>
+<h3>Shri Mahalaxmi Temple 
+    <br> Kolhapur</br>
+    <img style="width: 600px;" src="https://cdn.glitch.com/3276f5ae-9b9f-4ec6-b630-cee2435d631f%2Fthumbnails%2FShrimahalaxmikolhapur.jpg?1630139790268" alt="Shri Mahalaxmi Temple Kolhapur image">
+</h3>
+<p>The Shri Ambabai/Mahalaxmi Temple of Kolhapur in Maharashtra, India, is one of the three and half Shakti Peethas listed in various puranas of Hinduism. According to these writings, a Shakti Peetha is a place associated with Shakti, the goddess of power. The Kolhapur Shakti Peetha is of special religious significance being one of the six places where it is believed that one can either obtain salvation from desires or havethem fulfilled.</p>
 
-You can use the [editor on GitHub](https://github.com/kelkarba/bhagyashri.kelkar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kelkarba/bhagyashri.kelkar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
