@@ -6,6 +6,6 @@
 <p>The Shri Ambabai/Mahalaxmi Temple of Kolhapur in Maharashtra, India, is one of the three and half Shakti Peethas listed in various puranas of Hinduism. According to these writings, a Shakti Peetha is a place associated with Shakti, the goddess of power. The Kolhapur Shakti Peetha is of special religious significance being one of the six places where it is believed that one can either obtain salvation from desires or havethem fulfilled.</p>
 
 <ul>
-  <li><a href="https://kelkarba.github.io/MarshalArt/">Marshal Art Simulator</a></li>
+  <li><a href="https://kelkarba.github.io/Marshal/">Marshal Art Simulator</a></li>
 </ul>
 
